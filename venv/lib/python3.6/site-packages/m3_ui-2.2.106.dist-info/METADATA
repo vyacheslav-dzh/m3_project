@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: m3-ui
+Version: 2.2.106
+Summary: Пакет визуальных компонентов ExtJS для платформы M3
+Home-page: https://bitbucket.org/barsgroup/m3-ext
+Author: BARS Group
+Author-email: bars@bars-open.ru
+License: MIT
+Classifier: Intended Audience :: Developers
+Classifier: Environment :: Web Environment
+Classifier: Natural Language :: Russian
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Framework :: Django :: 1.4
+Classifier: Framework :: Django :: 1.5
+Classifier: Framework :: Django :: 1.6
+Classifier: Framework :: Django :: 1.7
+Classifier: Framework :: Django :: 1.8
+Classifier: Framework :: Django :: 1.9
+Classifier: Framework :: Django :: 1.10
+Classifier: Framework :: Django :: 1.11
+License-File: LICENSE
+Requires-Dist: six (<2,>=1.11)
+Requires-Dist: m3-builder (<2,>=1.2.0)
+Requires-Dist: m3-django-compat (<2,>=1.5.1)
+Requires-Dist: django (<3,>=1.4)
+Requires-Dist: m3-core (<3,>=2.2.16)
+

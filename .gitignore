@@ -1,0 +1,4 @@
+*.pyc
+**/*.egg-info/
+*.sqllite3
+__pycache__

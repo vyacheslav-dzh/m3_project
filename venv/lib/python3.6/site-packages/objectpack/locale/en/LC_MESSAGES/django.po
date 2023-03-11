@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-25 09:34+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: actions.py:187
+msgid "Добавление"
+msgstr "Adding"
+
+#: actions.py:187 actions.py:700
+msgid "Редактирование"
+msgstr "Editing"
+
+#: actions.py:508
+msgid "Не удалось удалить элемент. Возможно на него есть ссылки."
+msgstr "Cannot delete file"
+
+#: actions.py:614
+msgid "Наименование"
+msgstr "Name"
+
+#: actions.py:703
+msgid "Запись не найдена в базе данных.<br/>"
+msgstr ""
+
+#: actions.py:821
+msgid "Не получается получить поле {0} для DictSelectField.pack = {1}"
+msgstr ""
+
+#: actions.py:929
+msgid "Поиск"
+msgstr "Search"
+
+#: actions.py:1108
+msgid "Не удалось удалить элемент {0}. Возможно на него есть ссылки."
+msgstr ""
+
+#: column_filters.py:31
+msgid "Да"
+msgstr "Yes"
+
+#: column_filters.py:31
+msgid "Нет"
+msgstr "No"
+
+#: desktop.py:262
+msgid "Реестры"
+msgstr "registries"
+
+#: desktop.py:264
+msgid "Справочники"
+msgstr "references"
+
+#: desktop.py:266
+msgid "Администрирование"
+msgstr "Administration"
+
+#: ui.py:76
+msgid "Сохранить"
+msgstr "Save"
+
+#: ui.py:78
+msgid "Отмена"
+msgstr "Cancel"
+
+#: ui.py:118
+msgid "Закрыть"
+msgstr "Close"
+
+#: ui.py:216
+msgid "Выбрать"
+msgstr "Select"
+
+#: dictionary_object_pack/actions.py:21
+msgid "код"
+msgstr "code"
+
+#: dictionary_object_pack/actions.py:26
+msgid "наименование"
+msgstr "name"
